@@ -20,7 +20,7 @@ chmod +x install_kind_K8s.sh
 
 ### Step 3: Run the Installation Script
 ```bash
-./setup-kind.sh
+./install_kind_K8s.sh
 ```
 
 The script will:
