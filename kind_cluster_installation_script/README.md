@@ -10,12 +10,12 @@ This script automates the installation of Docker, `kubectl`, KinD (Kubernetes in
 ```bash
 git clone https://github.com/Ritik8768/Installation_script.git
 
-cd your-repo-name
+cd Installation_script.git
 ```
 
 ### Step 2: Make the Script Executable
 ```bash
-chmod +x setup-kind.sh
+chmod +x install_kind_K8s.sh
 ```
 
 ### Step 3: Run the Installation Script
